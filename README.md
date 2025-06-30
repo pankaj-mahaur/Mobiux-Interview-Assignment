@@ -1,4 +1,4 @@
-![Screenshot_2025-07-01-03-27-10-68](https://github.com/user-attachments/assets/091fc056-fc56-4780-be75-065a63600fbd)# Mobiux-Interview-Assignment
+# Mobiux-Interview-Assignment
 # 🏠 TCS-Inspired WordPress Homepage
 
 This project is a WordPress-based homepage created as part of a technical assignment during the interview process at **Mobiux**. The goal was to build a homepage inspired by the official [TCS website](https://www.tcs.com), focusing on layout structure and responsiveness.
@@ -51,5 +51,5 @@ Desktop -
 
 
 Mobile - 
-![Uploading Screenshot_2025-07-01-03-27-10-68.jpg…]()
+![Screenshot_2025-07-01-03-27-10-68](https://github.com/user-attachments/assets/091fc056-fc56-4780-be75-065a63600fbd)
 
